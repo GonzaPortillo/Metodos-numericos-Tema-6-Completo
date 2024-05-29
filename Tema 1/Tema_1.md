@@ -146,4 +146,11 @@ Las cifras significativas siempre serán cualquier número diferente de cero, lo
 Existen diferentes tipos de errores y es importante saber cuales son y cómo identificarlos, al momento de realizar mediciones o cálculos nos ayuda saber el nivel de error que puede llegar a existir y compararlo con datos anteriores o que ya se conocían.
 
 ## Bibliografia
+Seno de Alpha. (2021). Soluciones Error absoluto y Error relativo 3o ESO www.senodealpha.com. Seno de Alpha. Retrieved February 8, 2024, from
+https://www.senodealpha.com/wp-content/uploads/2021/09/Soluciones-Ejercicios-Error-absoluto-Error-relativo-3ESO.pdf
 
+Dr. Alejandro S. M. Santa Cruz. (2021, Mayo 18). Errores de Redondeo y de Truncamiento. Diapositiva 1. Retrieved February 8, 2024, from
+https://www.modeladoeningenieria.edu.ar/images/MatSup/2020/Errores_de_Redondeo_y_Truncamiento_Parte_I.pdf
+
+unProfesor. (2016, April 12). Qué es el error absoluto y el error relativo [Video]. YouTube.
+https://www.youtube.com/watch?v=l69yxD718Jo
