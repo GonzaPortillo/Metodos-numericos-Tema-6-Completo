@@ -103,6 +103,19 @@ En este caso, el valor verdadero es 5.7 cm, pero la aproximación que hiciste fu
 ##### *_Justificación del resultado:_*
 Al truncar la longitud de 5.7 cm a 5 cm, se incurre en un error verdadero de 0.7 cm, un error absoluto de 0.7 cm, y un error relativo porcentual de aproximadamente 12.28%. Esto significa que la longitud que informaste es un 12.28% más corta que la longitud real del objeto.
 
+1. Se ha medido con una regla que tiene precisión de milímetros un lapicero, y el resultado de la medición ha sido 145,37 mm. La longitud exacta del lapicero es de 145 mm. ¿Qué error absoluto hemos cometido?
+
+##### *_Solución_* 
+    EA = Valor aproximado - Valor verdadero
+    EA = 145,37 mm - 145 mm
+    EA = 0,37 mm
+
+2. Una persona, cuya masa real es de 63,874 kg, ha ido a la báscula de la farmacia a pesarse, y el resultado ha sido de 64,2 kg. ¿Qué error absoluto se ha cometido?
+
+##### *_Solución_* 
+    EA = Valor aproximado - Valor verdadero
+    EA = 64,2 kg - 63,874 kg
+    EA = 0,326 kg
 ## Error Absoluto
 
 ## Conclusiones
