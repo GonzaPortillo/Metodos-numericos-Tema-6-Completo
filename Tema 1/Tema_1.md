@@ -34,7 +34,8 @@
 
         Error de redondeo absoluto:
          32.1699 - 32.1536 = 0.0163
-         error de redondeo relativo:
+   
+        Error de redondeo relativo:
          (0.0163/32.1699)*100 = 0.051%
 
 4. 
