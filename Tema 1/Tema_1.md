@@ -103,6 +103,7 @@ En este caso, el valor verdadero es 5.7 cm, pero la aproximación que hiciste fu
 ##### *_Justificación del resultado:_*
 Al truncar la longitud de 5.7 cm a 5 cm, se incurre en un error verdadero de 0.7 cm, un error absoluto de 0.7 cm, y un error relativo porcentual de aproximadamente 12.28%. Esto significa que la longitud que informaste es un 12.28% más corta que la longitud real del objeto.
 
+## Error Absoluto
 1. Se ha medido con una regla que tiene precisión de milímetros un lapicero, y el resultado de la medición ha sido 145,37 mm. La longitud exacta del lapicero es de 145 mm. ¿Qué error absoluto hemos cometido?
 
 ##### *_Solución_* 
@@ -140,9 +141,9 @@ Las cifras significativas siempre serán cualquier número diferente de cero, lo
 
         2.2. 27.4 * 2 = 54.8
 
-## Error Absoluto
 
 ## Conclusiones
+Existen diferentes tipos de errores y es importante saber cuales son y cómo identificarlos, al momento de realizar mediciones o cálculos nos ayuda saber el nivel de error que puede llegar a existir y compararlo con datos anteriores o que ya se conocían.
 
 ## Bibliografia
 
