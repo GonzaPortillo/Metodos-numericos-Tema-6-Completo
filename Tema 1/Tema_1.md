@@ -100,10 +100,8 @@ En este caso, el valor verdadero es 5.7 cm, pero la aproximación que hiciste fu
         εv = ( (5.7 − 5) / 5.7) * 100%
         εv = 12.28%
         
-Justificación del resultado: al truncar la longitud de 5.7 cm a 5 cm, se incurre en un
-error verdadero de 0.7 cm, un error absoluto de 0.7 cm, y un error relativo porcentual
-de aproximadamente 12.28%. Esto significa que la longitud que informaste es un
-12.28% más corta que la longitud real del objeto.
+##### *_Justificación del resultado:_*
+Al truncar la longitud de 5.7 cm a 5 cm, se incurre en un error verdadero de 0.7 cm, un error absoluto de 0.7 cm, y un error relativo porcentual de aproximadamente 12.28%. Esto significa que la longitud que informaste es un 12.28% más corta que la longitud real del objeto.
 
 ## Error Absoluto
 
