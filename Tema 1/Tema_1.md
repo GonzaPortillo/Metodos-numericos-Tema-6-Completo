@@ -3,13 +3,12 @@
 ## Contenido
 
 1. Error de redondeo
-2. Error relativo
+2. Error Relativo
 3. Error de Truncamiento
-4. Error absoluto
-5. Cifra significativa
-6. Evidencia de trabajo en equipo
-7. Conclusiones
-8. Bibliografía
+4. Error Absoluto
+5. Cifra Significativa
+6. Conclusiones
+7. Bibliografía
 
 ## Error de truncamiento 
 
@@ -38,4 +37,34 @@
         Error de redondeo relativo:
          (0.0163/32.1699)*100 = 0.051%
 
-4. 
+## Error Relaivo
+
+1. Se encuentra una mesa que mide 3m de largo, pero al medirla se obtiene un valor de 3.24m. ¿Cuál es su error relativo?
+
+       Ea = | valor real - valor aproximado |
+       Ea = | 3 - 3.24 | = | -0.24 | = 0.24 m
+   
+       Er = Ea / Vr * 100
+       Er = 0.24 /3 * 100 = 8%
+
+       Resultado: El error relativo del 8% indica que la medición de la mesa tiene una discrepancia del 8% con respecto a su longitud real de 3 metros.
+
+2. Un cirujano realiza una incisión en un procedimiento quirúrgico y la longitud objetivo de la incisión es de 10 centímetros. Sin embargo, al medir la incisión después del procedimiento, se encontró que mide 10.5 centímetros. Calcula el error relativo.
+
+       Ea = | valor real - valor aproximado |
+       Ea = | 10 - 10.5 | = | -0.5 | = 0.5 cm
+   
+       Er = Ea / Vr * 100
+       Er = 0.5 /10 * 100 = 5%
+   
+       Resultado: El error relativo en la longitud de la incisión realizada por el cirujano es del 5%. Esto significa que la incisión es un 5% más larga de lo
+esperado.
+
+## Error de Truncamiento
+
+## Error Absoluto
+
+## Conclusiones
+
+## Bibliografia
+
