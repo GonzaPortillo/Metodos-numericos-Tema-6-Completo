@@ -22,4 +22,4 @@
 
 2. Calcula el área de un círculo de radio 3.2 cm con cuatro cifras decimales y sin redondear ningún número intermedio. Luego, repite el cálculo redondeando el valor de π a dos cifras decimales antes de operar. ¿Cuál es el error de redondeo absoluto y relativo que se produce al hacer esto?
 
-        A = π(3.2)<sub>2</sub>
+        A = π(3.2) <sup>2</sup>
