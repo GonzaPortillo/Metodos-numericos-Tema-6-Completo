@@ -16,5 +16,6 @@
 1. Calcula el valor de la expresión 1⁄3 + 1⁄5 + 1/7 con cuatro cifras decimales y sin redondear ningún número intermedio. Luego, repite el cálculo redondeando cada fracción a dos cifras decimales antes de sumarlas. ¿Cuál es el error de redondeo absoluto y relativo que se produce al hacer esto?
 
         0.3333 + 0.2000 + 0.1428 = 0.6762
+
         Redondeo a dos cifras decimales
         0.33 + 0.20 + 0.14 = 0.67
