@@ -116,6 +116,27 @@ Al truncar la longitud de 5.7 cm a 5 cm, se incurre en un error verdadero de 0.7
     EA = Valor aproximado - Valor verdadero
     EA = 64,2 kg - 63,874 kg
     EA = 0,326 kg
+
+## Cifra sigficativa
+1. ¿Cuáles son las cifras significativas de cada una de las siguientes cantidades?.
+
+        5.37 Cs = 3
+        35.000 Cs = 2
+        0.0038 Cs = 2
+
+Las cifras significativas siempre serán cualquier número diferente de cero, los ceros son significativos sólo cuando se encuentren entre dos dígitos.
+
+2. Realizar las operaciones, teniendo en cuenta las reglas de redondeo.
+
+        5.15 + 10.000 + 12.6 + 128.1282
+
+          5.15
+         10.000
+         12.6
+        128.1282
+        _________________
+        155.8789 = 155.9
+
 ## Error Absoluto
 
 ## Conclusiones
