@@ -80,7 +80,30 @@ En este caso, el valor verdadero es $7.8912, pero la aproximación que hiciste f
         εv = ( (7.8912 − 7.89) / 7.8912) * 100%
         εv = 0. 0152%
 
-2. 
+##### *_Justificación del resultado:_* 
+Al truncar el precio de $7.8912 a $7.89, se incurre en un error verdadero de $0.0012, un error absoluto de $0.0012, y un error relativo porcentual de aproximadamente 0.0152%. Esto significa que pagaste un 0.0152% menos de lo que el producto realmente costaba.
+
+2. Estás midiendo la longitud de un objeto con una regla que sólo tiene marcas para cada centímetro. Mides un objeto y determinas que tiene una longitud de 5.7 cm. Sin embargo, debido a las limitaciones de tu regla, sólo puedes informar la longitud como 5 cm. ¿Cuál es el error de truncamiento en esta situación?
+   
+##### *_Solución_* 
+En este caso, el valor verdadero es 5.7 cm, pero la aproximación que hiciste fue de 5 cm (truncaste la parte decimal).
+
+● El error verdadero (Ev) es la diferencia entre el valor verdadero y el valor aproximado:
+
+        Ev = Valor verdadero − aproximado = 5. 7 − 5 = 0. 7
+● El error absoluto (|Ev|) es el valor absoluto de la diferencia entre del valor verdadero y la aproximación:
+
+        |Ev| = |0. 7| = 0. 7
+● El error relativo porcentual (εv) es el error verdadero dividido por el valor verdadero, expresado como porcentaje:
+
+        εv = ( (Valor verdadero − aproximado) /Valor verdadero) * 100%
+        εv = ( (5.7 − 5) / 5.7) * 100%
+        εv = 12.28%
+        
+Justificación del resultado: al truncar la longitud de 5.7 cm a 5 cm, se incurre en un
+error verdadero de 0.7 cm, un error absoluto de 0.7 cm, y un error relativo porcentual
+de aproximadamente 12.28%. Esto significa que la longitud que informaste es un
+12.28% más corta que la longitud real del objeto.
 
 ## Error Absoluto
 
