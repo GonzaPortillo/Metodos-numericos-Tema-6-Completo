@@ -66,6 +66,25 @@
 
 ##### *_Solucion_*
 
+En este caso, el valor verdadero es $7.8912, pero la aproximación que hiciste fue de $7.89 (truncaste la parte decimal después de la centésima).
+
+-El error verdadero (Ev) es la diferencia entre el valor verdadero y el valor aproximado:
+        Ev = Valor verdadero − aproximado = 7. 8912 − 7. 89 = 0. 0012
+● El error absoluto (|Ev|) es el valor absoluto de la diferencia entre del valor
+verdadero y la aproximación:
+|Ev| = |0. 0012| = 0. 0012
+● El error relativo porcentual (εv) es el error verdadero dividido por el valor
+verdadero, expresado como porcentaje:
+εv =
+Valor verdadero − aproximado
+Valor verdadero
+
+* 100% =
+
+7.8912 − 7.89
+7.8912
+* 100% ≈ 0. 0152%
+
 2. 
 
 ## Error Absoluto
