@@ -128,7 +128,7 @@ Las cifras significativas siempre serán cualquier número diferente de cero, lo
 
 2. Realizar las operaciones, teniendo en cuenta las reglas de redondeo.
 
-        5.15 + 10.000 + 12.6 + 128.1282
+        2.1. 5.15 + 10.000 + 12.6 + 128.1282
 
           5.15
          10.000
@@ -136,6 +136,9 @@ Las cifras significativas siempre serán cualquier número diferente de cero, lo
         128.1282
         _________________
         155.8789 = 155.9
+
+
+        2.2. 27.4 * 2 = 54.8
 
 ## Error Absoluto
 
