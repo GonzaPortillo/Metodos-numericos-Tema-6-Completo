@@ -50,7 +50,7 @@
        Resultado: El error relativo del 8% indica que la medición de la mesa
        tiene una discrepancia del 8% con respecto a su longitud real de 3 metros.
 
-3. Un cirujano realiza una incisión en un procedimiento quirúrgico y la longitud objetivo de la incisión es de 10 centímetros. Sin embargo, al medir la incisión después del procedimiento, se encontró que mide 10.5 centímetros. Calcula el error relativo.
+2. Un cirujano realiza una incisión en un procedimiento quirúrgico y la longitud objetivo de la incisión es de 10 centímetros. Sin embargo, al medir la incisión después del procedimiento, se encontró que mide 10.5 centímetros. Calcula el error relativo.
 
        Ea = | valor real - valor aproximado |
        Ea = | 10 - 10.5 | = | -0.5 | = 0.5 cm
@@ -62,6 +62,11 @@
        Esto significa que la incisión es un 5% más larga de lo esperado.
 
 ## Error de Truncamiento
+1. Estás en una tienda y ves un producto que cuesta $7.8912. Sin embargo, para hacer el cálculo mental más fácil, decides truncar el precio a la centésima, es decir, a $7.89. ¿Cuál es el error de truncamiento en esta situación?
+
+##### *_Solucion_*
+
+2. 
 
 ## Error Absoluto
 
