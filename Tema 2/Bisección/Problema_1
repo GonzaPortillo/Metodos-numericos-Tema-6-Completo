@@ -1,4 +1,4 @@
-public class Main {
+public class Problema_1 {
     
     public static double funcion(double x) {
         return x * x * x - x - 2; //f(x) = x^3 - x - 2
