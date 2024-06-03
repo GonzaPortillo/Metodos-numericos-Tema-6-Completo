@@ -5,7 +5,7 @@
 1. Introduccion a Metodos Numericos
 2. Métodos de Solución de Ecuaciones
 3. Métodos de Solución de Sistemas de Ecuaciones
-4. TEMA 4
+4. Diferenciación e Integración Numérica
 5. TEMA 5
 6. Solución de Ecuaciones Diferenciales
 
@@ -15,7 +15,7 @@
 
 ## Métodos de Solución de Sistemas de Ecuaciones
 
-## TEMA 4
+## Diferenciación e Integración Numérica
 
 ## TEMA 5
 
