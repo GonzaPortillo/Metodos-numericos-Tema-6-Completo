@@ -3,7 +3,7 @@
 ## INDICE
 
 1. Introduccion a Metodos Numericos
-2. TEMA 2
+2. Métodos de Solución de Ecuaciones
 3. TEMA 3
 4. TEMA 4
 5. TEMA 5
@@ -11,7 +11,7 @@
 
 ## Introduccion a Metodos Numericos
 
-## TEMA 2
+## Métodos de Solución de Ecuaciones
 
 ## TEMA 3
 
