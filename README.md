@@ -1,4 +1,4 @@
-# Metodos-numericos-Tema-6
+# Metodos Numericos 
 
 ## INDICE
 
