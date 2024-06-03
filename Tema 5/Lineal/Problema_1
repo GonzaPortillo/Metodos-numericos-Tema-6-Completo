@@ -1,1 +1,23 @@
+public class Main {
 
+    public static double interpolacionLineal(double x1, double y1, double x2, double y2, double x) {
+        double m = (y2 - y1) / (x2 - x1);
+    
+        double y = m * (x - x1) + y1;
+    
+        return y;
+    }
+
+    public static void main(String[] args) {
+        double x1 = 7.0;
+        double y1 = 14.0;
+        double x2 = 10.0;
+        double y2 = 21.0;
+    
+        double x = 9;
+    
+        double y = interpolacionLineal(x1, y1, x2, y2, x);
+    
+        System.out.println("El valor interpolado de y para x = " + x + " es: " + y);
+    }
+}
