@@ -1,16 +1,14 @@
 public class Problema_1 {
-    // Definición de la función que vamos a integrar
+    
     public static double funcion(double x) {
         // Ejemplo: f(x) = x^2
         return x * x;
     }
 
-    // Implementación del método del trapecio
     public static double trapecio(double a, double b, int n) {
         double h = (b - a) / n; // Paso de integración
         double suma = (funcion(a) + funcion(b)) / 2.0; // Suma de los extremos con coeficiente 1/2
 
-        // Suma de los términos intermedios
         for (int i = 1; i < n; i++) {
             suma += funcion(a + i * h);
         }
@@ -19,14 +17,11 @@ public class Problema_1 {
     }
 
     public static void main(String[] args) {
-        // Intervalo de integración [a, b]
         double a = 0;
         double b = 1;
         
-        // Número de subintervalos
         int n = 6;
 
-        // Cálculo de la integral aproximada
         double resultado = trapecio(a, b, n);
 
         System.out.println("La integral aproximada es: " + resultado);
