@@ -1,1 +1,19 @@
 # Metodos-numericos-Tema-6
+
+## INDICE
+
+1. TEMA 1
+2. TEMA 2
+3. TEMA 3
+4. TEMA 4
+5. TEMA 5
+
+## TEMA 1
+
+## TEMA 2
+
+## TEMA 3
+
+## TEMA 4
+
+## TEMA 5
