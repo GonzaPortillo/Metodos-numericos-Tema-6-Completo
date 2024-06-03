@@ -1,4 +1,4 @@
-public class Problema_1 {
+public class Problema_2 {
 
     public static void main(String[] args) {
         double[][] matriz = {
