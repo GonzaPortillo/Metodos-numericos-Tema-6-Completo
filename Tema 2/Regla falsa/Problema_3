@@ -1,0 +1,54 @@
+public class Problema_3 {
+    
+    // Definimos la función de la que queremos encontrar la raíz
+    public static double funcion(double x) {
+        return x * x * x + 4 * x * x - 10; // f(x) = x^3 + 4x^2 - 10
+    }
+
+    // Implementación del método de la regla falsa
+    public static double reglaFalsa(double a, double b, double tol, int maxIter) {
+        double fa = funcion(a);
+        double fb = funcion(b);
+        
+        if (fa * fb > 0) {
+            System.out.println("La función no cambia de signo en el intervalo dado.");
+            return Double.NaN;
+        }
+
+        double c = a; // Inicialización de c
+
+        for (int iter = 0; iter < maxIter; iter++) {
+            // Calculamos el punto c usando la fórmula de la regla falsa
+            c = b - fb * (b - a) / (fb - fa);
+            double fc = funcion(c);
+            
+            // Comprobamos la tolerancia
+            if (Math.abs(fc) < tol) {
+                System.out.println("La raíz encontrada es: " + c);
+                return c;
+            }
+            
+            // Actualizamos los valores de a y b
+            if (fa * fc < 0) {
+                b = c;
+                fb = fc;
+            } else {
+                a = c;
+                fa = fc;
+            }
+        }
+        
+        System.out.println("No se encontró la raíz después de " + maxIter + " iteraciones.");
+        return c;
+    }
+
+    public static void main(String[] args) {
+        double a = 0; // Intervalo inferior
+        double b = 2; // Intervalo superior
+        double tol = 1e-6; // Tolerancia
+        int maxIter = 100; // Número máximo de iteraciones
+
+        double raiz = reglaFalsa(a, b, tol, maxIter);
+        System.out.println("La raíz aproximada es: " + raiz);
+    }
+}
