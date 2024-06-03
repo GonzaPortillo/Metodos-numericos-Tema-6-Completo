@@ -1,8 +1,8 @@
 public class Problema_3 {
 
     public static double funcion(double x) {
-        // Ejemplo: f(x) = x^2
-        return x * x;
+        // Ejemplo: f(x) = x^3 - x^2 - x - 1
+        return (x * x * x) -  (x * x) - x - 1;
     }
 
     public static double simpson13(double a, double b, int n) {
