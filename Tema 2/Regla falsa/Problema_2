@@ -1,9 +1,11 @@
 public class Problema_2 {
     
+    // Definimos la función de la que queremos encontrar la raíz
     public static double funcion(double x) {
-        return x * x * x * x - 4; // Ejemplo: f(x) = x^2 - 4
+        return x * x * x - x - 2; // f(x) = x^3 - x - 2
     }
 
+    // Implementación del método de la regla falsa
     public static double reglaFalsa(double a, double b, double tol, int maxIter) {
         double fa = funcion(a);
         double fb = funcion(b);
@@ -41,9 +43,9 @@ public class Problema_2 {
     }
 
     public static void main(String[] args) {
-        double a = 0; // Intervalo inferior
-        double b = 1.5; // Intervalo superior
-        double tol = 1e-8; // Tolerancia
+        double a = 1; // Intervalo inferior
+        double b = 2; // Intervalo superior
+        double tol = 1e-6; // Tolerancia
         int maxIter = 100; // Número máximo de iteraciones
 
         double raiz = reglaFalsa(a, b, tol, maxIter);
