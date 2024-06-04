@@ -18,19 +18,13 @@ public class Problema_2 {
     }
 
     public static void main(String[] args) {
-        // Definir los puntos conocidos (x, y)
-
-
         double[] x = {100.0, 125.0, 150.0, 175.0, 200.0};
         double[] y = {21.0, 28.0, 35.0, 42.0, 49.0};
 
-        // Definir el valor de xi para interpolar
         double xi = 250.0;
 
-        // Calcular el valor interpolado
         double yi = lagrangeInterpolation(x, y, xi);
 
-        // Mostrar el resultado
         System.out.printf("El valor interpolado en x = %.2f es y = %.2f%n", xi, yi);
     }
 }
