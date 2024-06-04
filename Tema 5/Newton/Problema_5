@@ -1,0 +1,33 @@
+public class Problema_5{
+
+    public static double[] calculateCoefficients(double[] x, double[] y) {
+        int n = x.length;
+        double[] coefficients = y.clone();
+        for (int j = 1; j < n; j++) {
+            for (int i = n - 1; i >= j; i--) {
+                coefficients[i] = (coefficients[i] - coefficients[i - 1]) / (x[i] - x[i - j]);
+            }
+        }
+        return coefficients;
+    }
+
+    public static double interpolate(double[] x, double[] coefficients, double value) {
+        double result = coefficients[coefficients.length - 1];
+        for (int i = coefficients.length - 2; i >= 0; i--) {
+            result = coefficients[i] + (value - x[i]) * result;
+        }
+        return result;
+    }
+
+    public static void main(String[] args) {
+        double[] x = {1.0, 2.0, 3.0, 4.0, 5.0};
+        double[] y = {2.0, 3.0, 5.0, 7.0, 11.0};
+
+        double[] coefficients = calculateCoefficients(x, y);
+
+        // Example interpolation
+        double valueToInterpolate = 2.5;
+        double interpolatedValue = interpolate(x, coefficients, valueToInterpolate);
+        System.out.println("Interpolated value at x = " + valueToInterpolate + ": " + interpolatedValue);
+    }
+}
