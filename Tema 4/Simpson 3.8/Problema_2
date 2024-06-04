@@ -1,8 +1,8 @@
 public class Problema_2 {
     // Definición de la función que vamos a integrar
     public static double funcion(double x) {
-        // Ejemplo: f(x) = x^2
-        return x * x;
+        // Ejemplo: f(x) = x^3 - 2x^2 + 1
+        return x * x * x - 2 * x * x + 1;
     }
 
     // Implementación de la regla de Simpson 3/8
