@@ -12,14 +12,12 @@ public class Problema_3 {
     }
 
     public static void main(String[] args) {
-        // Definir los puntos conocidos (x1, y1) y (x2, y2)
-        double x1 = 7.0;
-        double y1 = 14.0;
-        double x2 = 10.0;
-        double y2 = 21.0;
-    
-        // Punto para el que se quiere estimar el valor de y
-        double x = 9;
+        double x1 = 100.0;
+        double y1 = 65.0;
+        double x2 = 120.0;
+        double y2 = 75.0;
+
+        double x = 75;
     
         // Calcular el valor interpolado de y
         double y = interpolacionLineal(x1, y1, x2, y2, x);
