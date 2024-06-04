@@ -1,7 +1,5 @@
 public class Problema_5 {
 
-    // Definimos la ecuación diferencial dy/dx = f(x, y)
-    // En este ejemplo, vamos a usar dy/dx = x^2 - y
     public static double f(double x, double y) {
         return x * x - y;
     }
