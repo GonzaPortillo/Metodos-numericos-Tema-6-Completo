@@ -1,4 +1,4 @@
-public class MetodoEuler {
+public class Problema_1 {
 
     // Definimos la ecuación diferencial dy/dx = f(x, y)
     // En este ejemplo, vamos a usar dy/dx = x + y
