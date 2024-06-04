@@ -8,6 +8,7 @@
 4. Diferenciación e Integración Numérica
 5. Interpolación y Ajuste de Funciones
 6. Solución de Ecuaciones Diferenciales
+7. Conclusiones finales
 
 ## Introduccion a Metodos Numericos
 Los métodos numéricos son técnicas matemáticas que se utilizan para resolver problemas matemáticos mediante aproximaciones numéricas en lugar de soluciones exactas. Estos métodos son especialmente útiles cuando las soluciones analíticas no son posibles o son demasiado complejas. Algunos ejemplos de métodos numéricos son el método de Newton-Raphson, el método de la secante, el método de Euler para ecuaciones diferenciales, entre otros. Estos métodos se aplican en diversas áreas como la ingeniería, la física, la economía y la informática para resolver problemas que involucran cálculos numéricos.
@@ -26,3 +27,8 @@ Son técnicas utilizadas en el análisis de datos y en la matemática aplicada p
 
 ## Solución de Ecuaciones Diferenciales
 La solución de ecuaciones diferenciales en métodos numéricos se refiere a la implementación de técnicas computacionales para encontrar soluciones aproximadas a ecuaciones diferenciales, ya sean ordinarias o parciales, cuando no es posible obtener una solución analítica cerrada.
+
+
+## Conclusiones 
+
+Los métodos numéricos es que son herramientas fundamentales en el campo de las ciencias y la ingeniería para resolver problemas matemáticos de manera eficiente y precisa. Estos métodos permiten obtener soluciones aproximadas a problemas complejos que no pueden resolverse de forma analítica, lo que los hace indispensables en la práctica. Es importante comprender y dominar estos métodos para poder aplicarlos de manera efectiva en la resolución de diversos tipos de problemas numéricos en diferentes disciplinas.
