@@ -18,12 +18,12 @@ public class Problema_5 {
     }
 
     public static void main(String[] args) {
-        // Definir los puntos conocidos (x, y)
-        double[] x = {1.0, 2.0, 3.0, 4.0, 5.0};
-        double[] y = {10.0, 15.0, 20.0, 25.0, 30.0};
+
+        double[] x = {12.0, 14.0, 16.0, 18.0, 20.0};
+        double[] y = {1.0, 2.0, 3.0, 4.0, 5.0};
 
         // Definir el valor de xi para interpolar
-        double xi = 2.5;
+        double xi = 15;
 
         // Calcular el valor interpolado
         double yi = lagrangeInterpolation(x, y, xi);
