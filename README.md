@@ -9,7 +9,7 @@ En este repositorio el objetivo es recopilar la mayor parte de informacion acerc
 3. [Métodos de Solución de Sistemas de Ecuaciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#métodos-de-solución-de-sistemas-de-ecuaciones)
 4. [Diferenciación e Integración Numérica](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#diferenciación-e-integración-numérica)
 5. [Interpolación y Ajuste de Funciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#interpolación-y-ajuste-de-funciones)
-6. [Solución de Ecuaciones Diferenciales]()
+6. [Solución de Ecuaciones Diferenciales](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#solución-de-ecuaciones-diferenciales)
 7. [Conclusiones finales]()
 
 ## Introduccion a Metodos Numericos
