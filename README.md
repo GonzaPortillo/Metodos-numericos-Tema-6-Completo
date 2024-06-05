@@ -5,12 +5,12 @@ En este repositorio el objetivo es recopilar la mayor parte de informacion acerc
 ## INDICE
 
 1. [Introduccion a Metodos Numericos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#introduccion-a-metodos-numericos)
-2. [Métodos de Solución de Ecuaciones
-3. [Métodos de Solución de Sistemas de Ecuaciones
-4. [Diferenciación e Integración Numérica
-5. [Interpolación y Ajuste de Funciones
-6. [Solución de Ecuaciones Diferenciales
-7. [Conclusiones finales
+2. [Métodos de Solución de Ecuaciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#métodos-de-solución-de-ecuaciones)
+3. [Métodos de Solución de Sistemas de Ecuaciones]
+4. [Diferenciación e Integración Numérica]
+5. [Interpolación y Ajuste de Funciones]
+6. [Solución de Ecuaciones Diferenciales]
+7. [Conclusiones finales]
 
 ## Introduccion a Metodos Numericos
 Los métodos numéricos son técnicas matemáticas que se utilizan para resolver problemas matemáticos mediante aproximaciones numéricas en lugar de soluciones exactas. Estos métodos son especialmente útiles cuando las soluciones analíticas no son posibles o son demasiado complejas. Algunos ejemplos de métodos numéricos son el método de Newton-Raphson, el método de la secante, el método de Euler para ecuaciones diferenciales, entre otros. Estos métodos se aplican en diversas áreas como la ingeniería, la física, la economía y la informática para resolver problemas que involucran cálculos numéricos.
