@@ -7,36 +7,36 @@ En este repositorio el objetivo es recopilar la mayor parte de informacion acerc
 1. [Introduccion a Metodos Numericos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#introduccion-a-metodos-numericos)
 2. [Métodos de Solución de Ecuaciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#métodos-de-solución-de-ecuaciones)
 
-  *_Problemas / Codigos_*
-     * [Bisección](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Bisección)
-     * [Regla Falsa](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Regla%20falsa)
-     * [Secante](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Secante)
+ *_Problemas / Codigos_*
+    * [Bisección](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Bisección)
+    * [Regla Falsa](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Regla%20falsa)
+    * [Secante](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%202/Secante)
 3. [Métodos de Solución de Sistemas de Ecuaciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#métodos-de-solución-de-sistemas-de-ecuaciones)
 
-  *_Problemas / Codigos_*
-     * [Eliminacion Gaussiana](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Eliminacion%20Gaussiana)
-     * [Gauss Jordan](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Gauss%20Jordan)
-     * [Gauss Sidel](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Gauss%20Seidel)
-     * [Jacobi](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Jacobi)
+ *_Problemas / Codigos_*
+    * [Eliminacion Gaussiana](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Eliminacion%20Gaussiana)
+    * [Gauss Jordan](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Gauss%20Jordan)
+    * [Gauss Sidel](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Gauss%20Seidel)
+    * [Jacobi](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%203/Jacobi)
 4. [Diferenciación e Integración Numérica](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#diferenciación-e-integración-numérica)
 
-  *_Problemas / Codigos_*
-     * [Trapecio](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Metodo%20del%20Trapecio)
-     * [Simpson 1/3](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Simpson%201.3)
-     * [Simpson 3/8](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Simpson%203.8)
+ *_Problemas / Codigos_*
+    * [Trapecio](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Metodo%20del%20Trapecio)
+    * [Simpson 1/3](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Simpson%201.3)
+    * [Simpson 3/8](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%204/Simpson%203.8)
 5. [Interpolación y Ajuste de Funciones](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#interpolación-y-ajuste-de-funciones)
 
-  *_Problemas / Codigos_*
-     * [Cuadratica](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Cuadratica)
-     * [Lagrange](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Lagrange)
-     * [Lineal](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Lineal)
-     * [Newton](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Newton)
+ *_Problemas / Codigos_*
+    * [Cuadratica](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Cuadratica)
+    * [Lagrange](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Lagrange)
+    * [Lineal](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Lineal)
+    * [Newton](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%205/Newton)
 6. [Solución de Ecuaciones Diferenciales](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#solución-de-ecuaciones-diferenciales)
 
-  *_Problemas / Codigos_*
-     * [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Euler)
-     * [Runge Kutta](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Runge%20Kutta)
-     * [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Taylor)
+ *_Problemas / Codigos_*
+    * [Euler](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Euler)
+    * [Runge Kutta](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Runge%20Kutta)
+    * [Taylor](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/tree/main/Tema%206/Taylor)
 7. [Conclusiones finales](https://github.com/GonzaPortillo/Metodos-numericos-Tema-6-Completo/blob/main/README.md#solución-de-ecuaciones-diferenciales)
 
 ## Introduccion a Metodos Numericos
